@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @jbm1991
-- 👀 I’m interested in Mobile Applications, Web Development, Machine Learning and Data Science
-- 🌱 I’m currently learning Machine Learning and Data Science
-- 💞️ I’m looking to collaborate on some new ideas I have, which will be showing up as repositories below over the next few months
+- 👋 Hi, I’m John
+- 👀 I’m interested in Mobile Applications, Web Development and cybersecurity
 - 📫 You can reach me on Twitter
